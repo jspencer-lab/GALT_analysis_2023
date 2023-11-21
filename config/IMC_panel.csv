@@ -1,0 +1,38 @@
+Number,Metal_tag,Target,Actual,Cell,Annotation,Full,Ilastik,B_cell_marker
+1,Pr141,Lysozyme,Lysozyme,NA,NA,1,0,FALSE
+2,Nd142,CD11b,CD11b,DC,DC2,1,0,TRUE
+3,Nd143,VIMENTIN,Vimentin,NA,stroma,1,0,FALSE
+4,Nd144,,TUNEL,NA,NA,1,0,FALSE
+5,Nd145,CD38,CD38,NA,NA,1,0,TRUE
+6,Nd146,BTLA,BTLA,B cell,IgM plasma cells,1,0,TRUE
+7,Sm147,CD163,CD163,Macrophage,"TAMs, M2 phenotype",1,0,FALSE
+8,Nd148,CD5,CD5,NA,"DC3, B cells, T cells",1,0,FALSE
+9,Sm149,IgM,IgM,B cell,IgM plasma cells,1,0,TRUE
+10,Nd150,CD11c,CD11c,DC,DC,1,1,TRUE
+11,Eu151,CD31,CD31,Blood vessel,"Vascalature, HEV",1,0,FALSE
+12,Sm152,CD103,CD103,T cell,"T cell, DC, tissue residency",1,0,FALSE
+13,Eu153,FCRL4,FCRL4,NA,NA,1,0,TRUE
+14,Sm154,IgD,IgD,B cell,IgD plasma cells,1,0,TRUE
+15,Gd155,DNASE-I,DNASE_1,NA,NA,1,0,FALSE
+16,Gd156,CD45RB,CD45RB,NA,NA,1,0,TRUE
+17,Gd158,E-Cadherin,E_Cadherin,Epithelium,Epithelium,1,1,TRUE
+18,Tb159,CD68,CD68,Macrophage,Macrophage,1,1,FALSE
+19,Gd160,T-bet,T_bet,T cell,Th1,1,0,TRUE
+20,Dy161,CD20,CD20,B cell,B cell,1,1,FALSE
+21,Dy162,CD8,CD8,T cell,CD8 T cell,1,0,FALSE
+22,Dy163,LAMP3,LAMP3,NA,DC,1,0,FALSE
+23,Dy164,CD1c,CD1c,B cell,"B cell, DC",1,0,TRUE
+24,Ho165,PD1,PD1,T cell,"TFH cells, exhausted T cell",1,0,FALSE
+25,Er166,CD74,CD74,MHC-II,APC,1,0,FALSE
+26,Er167,GzB,GzB,T cell,T cell,1,0,FALSE
+27,Er168,Ki-67,Ki_67,Proliferation,Proliferation,1,0,TRUE
+28,Tm169,PDL1,PDL1,NA,Various,1,0,FALSE
+29,Er170,CD3,CD3,T cell,T cell,1,1,FALSE
+30,Yb171,CD27,CD27,B cell,"Memory B cell, Naive T cell",1,0,TRUE
+31,Yb172,CD40,CD40,Macrophage,M1 phenotype,1,0,FALSE
+32,Yb173,CD45RO,CD45RO,T cell,Mature T cells,1,1,FALSE
+33,Yb174,CASP-3,CASP_3,NA,NA,1,0,FALSE
+34,Lu175,NOX2,NOX2,NA,NA,1,0,FALSE
+35,Yb176,CD38,CD83,DC,"Mature DC, APC B cells",1,0,FALSE
+36,Ir191,DNA1,DNA1,NA,NA,1,1,FALSE
+37,Ir193,DNA2,DNA2,NA,NA,1,1,FALSE
