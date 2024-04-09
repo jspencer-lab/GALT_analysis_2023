@@ -1,5 +1,5 @@
 # GALT_analysis_2023
-Code for manuscript "Spatial-transcriptomic analysis reveals lupus-associated features DNASE1L3 and double-negative B cells interacting in intestinal lymphoid tissue"
+Code for manuscript "Double-negative B cells and DNASE1L3 colocalise with microbiota in gut-associated lymphoid tissue"
 
 Pre-print DOI: 10.1101/2023.08.29.555265
 
