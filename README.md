@@ -1,7 +1,7 @@
 # GALT_analysis_2023
 Code for manuscript "Double-negative B cells and DNASE1L3 colocalise with microbiota in gut-associated lymphoid tissue"
-
-Pre-print DOI: 10.1101/2023.08.29.555265
+Nature Communications, 2024
+DOI: 10.1038/s41467-024-48267-4
 
 # System requirements
 
